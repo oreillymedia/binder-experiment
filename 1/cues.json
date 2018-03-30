@@ -1,0 +1,254 @@
+[
+	{
+		"time": [0,0],
+		"sel": "#introduction-ANIls3",
+		"text": "Introduction"
+	},
+	{
+		"time": [0,21],
+		"sel": "#id-6QeIz",
+		"scroll": true
+	},
+	{
+		"time": [0,50],
+		"sel": "#id-45INsm",
+		"scroll": true,
+		"text": "Outline"
+	},
+	{
+		"time": [1,11],
+		"sel": "#id-BeIZsA",
+		"scroll": true
+	},
+	{
+		"time": [1,50],
+		"sel": "#id-mYhesPTa",
+		"scroll": true,
+		"text": "Machine Learning Example"
+	},
+	{
+		"time": [2,37],
+		"sel": "#id-yYhGH1TY",
+		"scroll": true
+	},
+	{
+		"time": [2,55],
+		"sel": "#id-wYh0tzTe",
+		"scroll": true
+	},
+	{
+		"time": [4,12],
+		"sel": "#id-qYhdi8TN",
+		"scroll": true
+	},
+	{
+		"time": [5,5],
+		"sel": "#id-gYhgc8TZ",
+		"scroll": true
+	},
+	{
+		"time": [5,31],
+		"sel": "#id-aEhjUkTA",
+		"scroll": true
+	},
+	{
+		"time": [5,57],
+		"sel": "#id-pYhNhAT3",
+		"scroll": true
+	},
+	{
+		"time": [6,35],
+		"sel": "#id-93I8uBTj",
+		"scroll": true
+	},
+	{
+		"time": [7,29],
+		"sel": "#id-8zhVtpTv",
+		"scroll": true
+	},
+	{
+		"time": [9,20],
+		"sel": "#id-OgI5sM",
+		"scroll": true,
+		"text": "Step 1"
+	},
+	{
+		"time": [9,40],
+		"sel": "#id-nMIGuo",
+		"scroll": true
+	},
+		{
+		"time": [10,50],
+		"sel": "#id-vVIwtN",
+		"scroll": true
+	},
+	{
+		"time": [11,37],
+		"sel": "#id-eGIJcN",
+		"scroll": true
+	},
+	{
+		"time": [12,25],
+		"sel": "#id-EeIdsA",
+		"scroll": true
+	},
+	{
+		"time": [12,36],
+		"sel": "#id-dQhzFw",
+		"scroll": true
+	},
+	{
+		"time": [13,11],
+		"sel": "#id-zYh0f4",
+		"scroll": true
+	},
+	{
+		"time": [14,22],
+		"sel": "#id-xYhgcY",
+		"scroll": true
+	},
+	{
+		"time": [15,2],
+		"sel": "#id-bAI0u4",
+		"scroll": true,
+		"text": "Step 2"
+	},
+	{
+		"time": [16,45],
+		"sel": "#id-jEhBHM",
+		"scroll": true
+	},
+	{
+		"time": [17,19],
+		"sel": "#id-WAhruw",
+		"scroll": true,
+		"text": "Step 3"
+	},
+	{
+		"time": [17,55],
+		"sel": "#id-WpImSw",
+		"scroll": true
+	},
+	{
+		"time": [18,18],
+		"sel": "#id-wYh0tE",
+		"scroll": true
+	},
+	{
+		"time": [18,47],
+		"sel": "#id-eGIPfp",
+		"scroll": true
+	},
+	{
+		"time": [19,41],
+		"sel": "#id-vYh3ud",
+		"scroll": true,
+		"text": "Step 4"
+	},
+	{
+		"time": [20,39],
+		"sel": "#id-wYhbFV",
+		"scroll": true
+	},
+	{
+		"time": [21,30],
+		"sel": "#id-wzIQsjtv",
+		"scroll": true,
+		"text": "Estimator Summary"
+	},
+	{
+		"time": [22,4],
+		"sel": "#id-98hkFJtQ",
+		"scroll": true
+	},
+	{
+		"time": [22,53],
+		"sel": "#id-XDhJfXtr",
+		"scroll": true
+	},
+	{
+		"time": [23,34],
+		"sel": "#id-mlIesG",
+		"scroll": true,
+		"text": "Other ML Categories"
+	},
+	{
+		"time": [25,36],
+		"sel": "#id-WpIZs0",
+		"scroll": true,
+		"text": "Application: OCR"
+	},
+	{
+		"time": [26,8],
+		"sel": "#id-wYhWuXu2",
+		"scroll": true
+	},
+	{
+		"time": [26,35],
+		"sel": "#id-qYh1SJuJ",
+		"scroll": true
+	},
+	{
+		"time": [27,27],
+		"sel": "#id-YoInHJuX",
+		"scroll": true
+	},
+	{
+		"time": [28,14],
+		"sel": "#id-yxIxs1T2",
+		"scroll": true,
+		"text": "Dimensionality Reduction"
+	},
+	{
+		"time": [28,37],
+		"sel": "#id-gYhOS8Tp",
+		"scroll": true
+	},
+	{
+		"time": [29,0],
+		"sel": "#id-pYhJtAT5",
+		"scroll": true
+	},
+	{
+		"time": [29,15],
+		"sel": "#id-XDh0cVT5",
+		"scroll": true
+	},
+	{
+		"time": [30,7],
+		"sel": "#id-qYhQuASJ",
+		"scroll": true,
+		"text": "Classification on Digits"
+	},
+	{
+		"time": [30,29],
+		"sel": "#id-E3hZSjSb",
+		"scroll": true
+	},
+	{
+		"time": [30,45],
+		"sel": "#id-pYhkFyS5",
+		"scroll": true
+	},
+	{
+		"time": [31,3],
+		"sel": "#id-oYhqfDSQ",
+		"scroll": true
+	},
+	{
+		"time": [31,47],
+		"sel": "#id-ZGhbc0S1",
+		"scroll": true
+	},
+	{
+		"time": [32,31],
+		"sel": "#id-ZXInU0S1",
+		"scroll": true
+	},
+	{
+		"time": [33,21],
+		"sel": "#id-vVIxsM",
+		"scroll": true,
+		"text": "Summary"
+	}
+]
